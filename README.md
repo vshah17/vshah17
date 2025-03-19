@@ -11,7 +11,7 @@ Building with GenAI – Integrated AI copilots, optimized LLM prompts, and worke
 
 Web3 & Crypto – Passionate about blockchain, smart contracts, and decentralized applications.
 
-Productivity & Automation – Created AI-driven workflow apps and a finance tracking iOS app.
+Productivity & Automation – Created an AI-driven finance tracking iOS app.
 
 ## 🛠️ Tech Stack
 Languages: Python, JavaScript, HTML+CSS
