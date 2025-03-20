@@ -3,8 +3,7 @@
 I'm Vansh Shah, a Computer Science student at UC Santa Cruz (graduating December 2025) with a strong passion for software engineering, AI, cybersecurity, and Web3 technologies. I love building innovative projects, solving complex problems, and contributing to open-source communities.
 
 ## 🚀 What I Do
-Software Engineering – Experienced in Python and JavaScript with a background in backend development, APIs, and data structures & algorithms.
-
+Software Engineering – Experienced in Python and JavaScript with a background in backend development, APIs, and data structures & algorithms.\
 AI & Machine Learning – Worked on deep learning, neural networks, and AI copilots (Python, PyTorch, TensorFlow).
 
 Building with GenAI – Integrated AI copilots, optimized LLM prompts, and worked on intelligent workflows.
